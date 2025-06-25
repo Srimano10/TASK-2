@@ -1,0 +1,23 @@
+Sample Phishing Email
+
+
+From: support@paypa1-security.com
+To: your.email@example.com
+Subject: ⚠️ Urgent: Account Suspension Notice – Immediate Action Required!
+
+Dear Customer,
+
+We have detected suspicious activity on your PayPal account. To protect your information, your account has been temporarily limited.
+
+To restore full access, please verify your identity within 24 hours or your account will be permanently suspended.
+
+👉 Click the link below to verify now:
+
+🔗 www.paypal.com
+
+Failure to comply may result in permanent loss of access and funds.
+
+Thank you for your prompt attention,
+PayPal Security Team
+support@paypa1-security.com
+[Attachment: account_verification_form.zip]
